@@ -30,9 +30,3 @@ dependencies {
 test {
     useJUnitPlatform()
 }
-
-jar {
-    manifest {
-        enabled = false
-    }
-}
